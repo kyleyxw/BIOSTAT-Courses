@@ -1,5 +1,5 @@
 # BIOSTAT-Courses
-=================================================
+
 Publicly Available Biostatistics Course Materials
 
 ## Statistical Inference
@@ -20,5 +20,8 @@ Publicly Available Biostatistics Course Materials
 * [David Pollard](http://www.stat.yale.edu/~pollard/), Yale University, [STAT 312/612: Linear Models](http://www.stat.yale.edu/~pollard/Courses/312.fall2016/)
 * [Taylor Arnold](https://statsmaths.github.io), Yale University,[STAT 312/612: Linear Models](http://statsmaths.github.io/stat612/)
 * [Cedric E. Ginestet](http://math.bu.edu/people/cgineste/classes/ma575/w/index.html), Boston University, [MA 575: Linear Models](http://math.bu.edu/people/cgineste/classes/ma575/w/index.html)
+
+## Categorical Data
+* [Alan Agresti](http://users.stat.ufl.edu/~aa/), University of Florida, [CATEGORICAL DATA ANALYSIS](http://users.stat.ufl.edu/~aa/cda/cda.html)
 
 
