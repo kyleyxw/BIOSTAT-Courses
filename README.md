@@ -13,8 +13,8 @@ Publicly Available Biostatistics Course Materials
 **Textbooks**
 * G. Casella and R.L. Berger, Statistical Inference, 2nd edition 
 * J. Shao, Mathematical Statistics: Exercises and Solutions
-* E.L. Lehmann and G. Casella, Theory of Point Estimation, 2nd edition.
-* E.L. Lehmann and J.P. Romano, Testing Statistical Hypotheses, 3rd edition. 
+* E.L. Lehmann and G. Casella, Theory of Point Estimation, 2nd edition
+* E.L. Lehmann and J.P. Romano, Testing Statistical Hypotheses, 3rd edition
 
 ## Linear Models
 * [David Pollard](http://www.stat.yale.edu/~pollard/), Yale University, [STAT 312/612: Linear Models](http://www.stat.yale.edu/~pollard/Courses/312.fall2016/)
