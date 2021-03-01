@@ -5,10 +5,11 @@ Publicly Available Biostatistics Course Materials
 ## Statistical Inference
 
 **Course Websites**
-* [Jun Shao](http://pages.stat.wisc.edu/~shao/), University of Wisconsin-Madison, [STAT 609: Mathematical Statistics](http://pages.stat.wisc.edu/~shao/stat609/main.html) 
+* [Jun Shao](http://pages.stat.wisc.edu/~shao/), University of Wisconsin-Madison, [STAT 609: Mathematical Statistics](http://pages.stat.wisc.edu/~shao/stat609/main.html)
+* [Fan Zhou](http://www.stat.yale.edu/~zf59/index.html), Yale University, [S&DS 410/610: Statistical Inference](http://www.stat.yale.edu/~zf59/stats_410_610/index.html) 
 * [Jun Shao](http://pages.stat.wisc.edu/~shao/), University of Wisconsin-Madison, [STAT 709: Mathematical Statistics](http://pages.stat.wisc.edu/~shao/stat709/main.html) 
 * [Jun Shao](http://pages.stat.wisc.edu/~shao/), University of Wisconsin-Madison, [STAT 710: Mathematical Statistics](http://pages.stat.wisc.edu/~shao/stat710/main.html) 
-* [Fan Zhou](http://www.stat.yale.edu/~zf59/index.html), Yale University, [S&DS 410/610: Statistical Inference](http://www.stat.yale.edu/~zf59/stats_410_610/index.html)
+* [Michael Kosorok](https://mkosorok.web.unc.edu/teaching-and-mentoring/), University of North Carolina at Chapel Hill, [BIOS 760: Advanced Probability and Statistical Inference I](http://www.bios.unc.edu/~kosorok/bios760)
 
 **Textbooks**
 * G. Casella and R.L. Berger, Statistical Inference, 2nd edition 
